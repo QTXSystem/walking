@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Timed And Distance Walk</string>
+
+    <string-array name="height_arrays" style="@style/spinnerStyle">
+        <item style="@style/spinnerStyle">5.0</item>
+        <item style="@style/spinnerStyle">5.1</item>
+        <item>5.2</item>
+        <item>5.3</item>
+        <item>5.4</item>
+        <item>5.5</item>
+        <item>5.6</item>
+        <item>5.7</item>
+        <item>5.8</item>
+        <item>5.9</item>
+        <item>5.10</item>
+        <item>5.11</item>
+        <item>6.0</item>
+        <item>6.1</item>
+        <item>6.2</item>
+        <item>6.3</item>
+        <item>6.4</item>
+    </string-array>
+    <string name="compass_dial">Compass Dial</string>
+    <string name="compass_hands">Compass Hands</string>
+</resources>
